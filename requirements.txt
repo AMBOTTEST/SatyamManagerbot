@@ -54,7 +54,7 @@ motor<2.4.0,>=2.1.0
 multicolorcaptcha
 nekos.py
 nltk
-nudepy==1.23.5
+nudepy==0.5.1
 NumPy
 odmantic
 opencv-python-headless
