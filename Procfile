@@ -1,1 +1,1 @@
-worker: python3 -m Exon
+worker: python am.py
