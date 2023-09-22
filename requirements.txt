@@ -54,8 +54,8 @@ motor<2.4.0,>=2.1.0
 multicolorcaptcha
 nekos.py
 nltk
-nudepy
-NumPy==1.23.5
+nudepy==1.23.5
+NumPy
 odmantic
 opencv-python-headless
 pendulum
