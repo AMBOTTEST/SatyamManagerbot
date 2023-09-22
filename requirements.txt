@@ -44,6 +44,7 @@ hiredis
 html-telegraph-poster
 html2text
 httpx
+httpcore==0.15.0
 humanize
 img2pdf
 jikanpy
