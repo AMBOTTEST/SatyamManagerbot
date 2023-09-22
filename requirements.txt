@@ -1,5 +1,7 @@
 aiofiles
 aiogram
+zero-shot-re
+numpy
 aiohttp[speedups]
 aioredis
 alphabet_detector
