@@ -9,6 +9,7 @@ better_profanity
 bing_image_downloader
 bleach
 bs4
+Cython
 cachetools
 cloudscraper
 countryinfo
