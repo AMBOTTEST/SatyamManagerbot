@@ -14,7 +14,7 @@
       "TOKEN": {
          "description": "Your bot token. Can be obtained from https://telegram.dog/BotFather/",
          "required": true,
-         "value": "YOUR BOT_TOKEN"
+         "value": "6489397858:AAEmRev0-WxE4mPMlnlHK7StGrcxOgopC7U"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
@@ -54,7 +54,7 @@
       "OWNER_ID": {
          "description": "Your Telegram User ID as an integer.",
          "required": true,
-         "value": "6204761408"
+         "value": "5097836954"
       },
       "BOT_ID": {
          "description": "Your Telegram Bot ID.",
