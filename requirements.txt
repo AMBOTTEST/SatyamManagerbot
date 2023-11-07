@@ -57,7 +57,6 @@ multicolorcaptcha
 nekos.py
 nltk
 tslearn
-NumPy
 odmantic
 opencv-python-headless
 pendulum
