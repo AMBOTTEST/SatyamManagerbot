@@ -40,10 +40,10 @@ class Config(object):
 
     API_ID = "12227067"
     API_HASH = "b463bedd791aa733ae2297e6520302fe"
-    ARQ_API_KEY = "EJSUNZ-BJXKAI-AKQDZL-NMPKWQ-ARQ"
+    ARQ_API_KEY = "IWBOLK-SHIUBT-OJHGHB-AWNHNL-ARQ"
     BOT_ID = "6129232106"
     TOKEN = "5458182410:KINGABISHNOI-UM"
-    OWNER_ID = "6204761408"
+    OWNER_ID = "5097836954"
     OPENWEATHERMAP_ID = "22322"
     OWNER_USERNAME = "AM_YTBOTT"
     BOT_USERNAME = "Defulter_bot"
@@ -54,13 +54,13 @@ class Config(object):
     EVENT_LOGS = "-1001908711819"
     ERROR_LOGS = "-1001840241140"
 
-    SQLALCHEMY_DATABASE_URI = "postgres://citus:AbhiModszYT12@c-yone.2iti2yet5lss6l.postgres.cosmos.azure.com:5432/yone"  # sql
-    DATABASH_URL = "postgres://citus:AbhiModszYT12@c-yone.2iti2yet5lss6l.postgres.cosmos.azure.com:5432/yone"  # sql
+    SQLALCHEMY_DATABASE_URI = "postgres://zvvrdoji:kSdhyo9vmR9lAKFnYs4XnFB7bGqxPNyo@snuffleupagus.db.elephantsql.com/zvvrdoji"  # sql
+    DATABASH_URL = "postgres://zvvrdoji:kSdhyo9vmR9lAKFnYs4XnFB7bGqxPNyo@snuffleupagus.db.elephantsql.com/zvvrdoji"  # sql
     DB_URL = "postgres://citus:AbhiModszYT12@c-yone.2iti2yet5lss6l.postgres.cosmos.azure.com:5432/yone"
     MONGO_DB_URL = "mongodb+srv://AM:AM@am.9zeddhx.mongodb.net/?retryWrites=true&w=majority"  # needed for any database modules
     MONGO_URL = "mongodb+srv://AM:AM@am.9zeddhx.mongodb.net/?retryWrites=true&w=majority"
     DB_URL2 = "mongodb+srv://AM:AM@am.9zeddhx.mongodb.net/?retryWrites=true&w=majority"  # YOUR MONGO_DB_URI
-    ARQ_API_URL = "https://arq.hamker.in"
+    ARQ_API_URL = "https://arq.hamker.dev"
     BOT_API_URL = "https://api.telegram.org/bot"
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
