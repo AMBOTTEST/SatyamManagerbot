@@ -171,12 +171,12 @@
       "ARQ_API_KEY": {
          "description": "Get one @ARQRobot on Telegram",
          "required": true,
-         "value": "EJSUNZ-BJXKAI-AKQDZL-NMPKWQ-ARQ"
+         "value": "IWBOLK-SHIUBT-OJHGHB-AWNHNL-ARQ"
       },
       "ARQ_API_URL": {
          "description": "Leave it as it is",
          "required": true,
-         "value": "arq.hamker.dev"
+         "value": "https://arq.hamker.dev"
       },
       "ERROR_LOGS": {
          "description": "The ID of the Group where the bot will spam with shitty errors and techy stuff",
