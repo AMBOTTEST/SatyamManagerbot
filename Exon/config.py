@@ -41,7 +41,7 @@ class Config(object):
     API_ID = "12227067"
     API_HASH = "b463bedd791aa733ae2297e6520302fe"
     ARQ_API_KEY = "IWBOLK-SHIUBT-OJHGHB-AWNHNL-ARQ"
-    BOT_ID = "6129232106"
+    BOT_ID = "6489397858"
     TOKEN = "6489397858:AAGe8zc1zlziv01591PCqvWLs1ERUVEevXI"
     OWNER_ID = "5097836954"
     OPENWEATHERMAP_ID = "22322"
@@ -63,7 +63,7 @@ class Config(object):
     ARQ_API_URL = "https://arq.hamker.dev"
     BOT_API_URL = "https://api.telegram.org/bot"
     LOAD = []
-    NO_LOAD = ["rss", "cleaner", "connection", "math"]
+    NO_LOAD = []
     WEBHOOK = False
     INFOPIC = True
     URL = None
