@@ -123,7 +123,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="ᴄᴏᴍᴍᴀɴᴅs ⚡", callback_data="help_back"),
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ ✨", callback_data="about_"),
+        InlineKeyboardButton(text="💌 ᴄʜᴀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/+GskeUWg-EMA4NDk1"),
     ],
 ]
 
