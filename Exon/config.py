@@ -49,7 +49,7 @@ class Config(object):
     BOT_USERNAME = "Satyam_management_Bot"
     SUPPORT_CHAT = "AM_YTSUPPORT"
     UPDATES_CHANNEL = "satyamnetwork"
-    SUPPORT_CHANNEL = "AM_YTSUPPORT"
+    SUPPORT_CHANNEL = "satyamnetwork"
     JOIN_LOGGER = "-1001841879487"
     EVENT_LOGS = "-1001908711819"
     ERROR_LOGS = "-1001840241140"
