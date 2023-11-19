@@ -42,11 +42,11 @@ class Config(object):
     API_HASH = "b463bedd791aa733ae2297e6520302fe"
     ARQ_API_KEY = "IWBOLK-SHIUBT-OJHGHB-AWNHNL-ARQ"
     BOT_ID = "6129232106"
-    TOKEN = "5458182410:KINGABISHNOI-UM"
+    TOKEN = "6489397858:AAGe8zc1zlziv01591PCqvWLs1ERUVEevXI"
     OWNER_ID = "5097836954"
     OPENWEATHERMAP_ID = "22322"
-    OWNER_USERNAME = "AM_YTBOTT"
-    BOT_USERNAME = "Defulter_bot"
+    OWNER_USERNAME = "Mr_majnu72"
+    BOT_USERNAME = "Satyam_management_Bot"
     SUPPORT_CHAT = "AM_YTSUPPORT"
     UPDATES_CHANNEL = "satyamnetwork"
     SUPPORT_CHANNEL = "AM_YTSUPPORT"
@@ -68,7 +68,7 @@ class Config(object):
     INFOPIC = True
     URL = None
     SPAMWATCH_API = "RcTrglJSXxi6I~5Rr4NLwVOWeVWEzhh7e6MiIqURbhe~3brOGAN4nCSo93bqXSpa"
-    SPAMWATCH_SUPPORT_CHAT = "@AM_YTSUPPORT"
+    SPAMWATCH_SUPPORT_CHAT = "AM_YTSUPPORT"
 
     REDIS_URL = "redis://default:725m47dhlmisA0QecURSMkcHNGXkM1uP@redis-15808.c275.us-east-1-4.ec2.cloud.redislabs.com:15808"
 
